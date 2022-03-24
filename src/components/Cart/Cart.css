@@ -1,0 +1,8 @@
+.cart{
+    
+    position: sticky;
+    top: 0;
+}
+.cart:hover{
+    background-color: crimson;
+}

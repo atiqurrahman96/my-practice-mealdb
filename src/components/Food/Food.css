@@ -1,0 +1,30 @@
+.single-thumb img{
+    width: 150px;
+    margin-top: 10px;
+    border: 5px solid lightgray;
+    border-radius: 5%;
+}
+.single-food-container{
+    border: 5px solid lightblue;
+    margin: 10px;
+}
+.btn-style button{
+   
+    border: none;
+    background-color:aqua;
+    border-radius: 5px;
+    padding: 5px;
+   
+   
+   
+}
+
+.btn-style{
+  padding: 10px;
+   background-color: aqua;
+  
+ 
+}
+.btn-style:hover{
+    background-color: orangered;
+}
